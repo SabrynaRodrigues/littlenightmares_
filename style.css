@@ -54,6 +54,14 @@ h2{
 }
 body{
     margin: 0;
+    background-image: url("fundoin.jpg");
+    background-color: #cccccc;
+    height: 670px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-top: 0;
 }
 p{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
